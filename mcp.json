@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "qants-mizan": {
+      "url": "https://qants-site.qants.workers.dev/mcp"
+    }
+  }
+}
