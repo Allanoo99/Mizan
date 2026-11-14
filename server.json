@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Allanoo99/mizan",
+  "title": "Mizan",
+  "description": "Open calibration benchmark for AI agents. Check if your agent says I don't know at the right time.",
+  "version": "1.0.0",
+  "websiteUrl": "https://qants-site.qants.workers.dev/api-docs",
+  "repository": {
+    "url": "https://github.com/Allanoo99/mizan",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://qants-site.qants.workers.dev/mcp"
+    }
+  ]
+}
